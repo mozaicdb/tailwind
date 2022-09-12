@@ -1,4 +1,8 @@
-body {
-    padding: 0;
-    margin: 0;
-}
+/* tailwindcss utility classes */
+
+
+/*this code below is called tailwind utility class which is used to called css class and the output is send to the file inside the public file */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
