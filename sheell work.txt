@@ -1,0 +1,17 @@
+second-token
+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
+
+name of repository
+alx-zero_day
+
+shell basics code
+5-listfilesdigitonly
+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
+#!/bin/bash
+chmod u+x
+to edit vi name of the file
+to leave the edit mode escape key :wq den enter 
+
+
+
+

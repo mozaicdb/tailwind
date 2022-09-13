@@ -1,0 +1,8 @@
+how to clone a repo github 
+step1: git clone https://tokenname@github.com/yourgithubusername/nameofrepo.git
+
+
+
+
+
+

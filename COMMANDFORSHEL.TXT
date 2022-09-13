@@ -1,0 +1,39 @@
+1. cd - change direct
+2. ls -list all file in a directory 
+3. mkdir- make a new directory 
+4. rmdir - remove /delete directory 
+4a. rm -rf - to remove a folder that is not empty
+5. rm - remove file 
+6. cp- copy files
+7. mv- move/rename file
+8. cat -viewing content in a file 
+9. pwd- present/current working directory
+10 ls -R to show all the folder in the desktop and subfolders
+crt c to stop the running 
+10 touch so_cool 
+ex
+
+COMMANDS
+Users\Moses 
+cd ..
+cd ..
+cd Users
+cd Moses
+cd
+
+
+commands for taking you to your main folder
+cd ..
+cd..
+cd Users
+cd MOSES
+cd Desktop
+
+0813089180cdcd
+PROJECT
+MENTORSHIP OR COUNSELLING
+
+i won't be used or taken advantage of, i am no once doormat
+
+file:///C:/Users/MOSES/Desktop/Udemy_Build_Responsive_Real-World_Websites_with_HTML_and_CSS_2021-8_Fixed.part1_Downloadly.ir/01%20-%20Welcome%20and%20First%20Steps/34859920-theory-lectures-v2-BEST.pdf
+ 

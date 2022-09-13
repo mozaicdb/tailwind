@@ -1,0 +1,11 @@
+Note on tailwind 
+1. To check node version node -v 
+2. to check tailwind version npm -v 
+ command to install package.json
+> npm init -y 
+Command to install tailwind
+> npm install tailwindcss  or npm i tailwindcss
+
+sudo apt update
+Delete 0-select_states.py
+Chmod 777 *py
