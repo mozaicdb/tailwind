@@ -21,8 +21,8 @@ something will show call origin immedaitely after step4 as been done
 step 5 git pull https://github.com/Elisheba12/AirBnB_clone.git 
 final Stage Press enter key
 
-Command use to level a editting mode on terminals
-crtl c - press it two times
+Command use to leave a editting mode on terminals
+crtl c - press it two times OR
 ctrl d - press once to leave the terminal 
 
 
