@@ -12,6 +12,15 @@
 crt c to stop the running 
 10 touch so_cool 
 ex
+command on how to pull a file and work together with a team 
+step 1 create a folder in your local machine 
+step 2 write this command git init inside the folder directory created
+step 3 git remote add origin https://github.com/Elisheba12/AirBnB_clone.git (the address of work repo to pull from)
+step 4 git remote
+something will show call origin immedaitely after step4 as been done 
+step 5 git pull https://github.com/Elisheba12/AirBnB_clone.git 
+final Stage Press enter key
+
 
 COMMANDS
 Users\Moses 
