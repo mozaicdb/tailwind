@@ -24,7 +24,7 @@ final Stage Press enter key
 Command use to leave a editting mode on terminals
 crtl c - press it two times OR
 ctrl d - press once to leave the terminal 
-
+Command to create and image using terminal is wget <url>
 
 COMMANDS
 Users\Moses 
