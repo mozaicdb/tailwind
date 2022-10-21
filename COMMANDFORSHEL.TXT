@@ -25,6 +25,7 @@ Command use to leave a editting mode on terminals
 crtl c - press it two times OR
 ctrl d - press once to leave the terminal 
 Command to create and image using terminal is wget <url>
+Code all the file Executable - chmod 777 *py
 
 COMMANDS
 Users\Moses 
